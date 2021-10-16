@@ -1,0 +1,45 @@
+body {
+  font-family: Roboto, Raleway;
+  color: #212121;
+}
+
+.web {
+  color: #2196f3;
+}
+
+.logo {
+  text-decoration: none;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+
+.logo:visited {
+  color: inherit;
+}
+
+.menu-nav {
+  list-style-type: none;
+}
+
+.menu-nav a {
+  text-decoration: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.menu-nav a:hover {
+  color: #2196f3;
+  /* nie dziala? */
+}
+
+.menu-nav a:visited {
+  color: inherit;
+}
